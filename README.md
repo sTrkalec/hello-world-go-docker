@@ -10,7 +10,7 @@ Antes de começar, certifique-se de ter o Docker instalado na sua máquina. Voc�
 
 Caso queira utilizar a minha imagem já existente:
 ```javascript
-    docker run strkalec-challenge-docker-1
+   docker run strkalec/challenge-docker-1
 ```
 
 Para executar o projeto e criar sua imagem do zero, siga as instruções abaixo:
